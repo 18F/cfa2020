@@ -10,3 +10,5 @@ Agencies put a lot of work into writing request for proposals. Bidders put in a 
 - [Evaluation Process](https://github.com/18F/cfa2020/blob/master/Evaluation%20Process_%20Evaluation%20factors%20and%20considerations%20when%20reviewing%20proposals.pdf)
 - [Verbal Interview Question Bank](https://github.com/18F/cfa2020/blob/master/Verbal%20Interview%20Question%20Bank.pdf)
 - [18F Verbal Interview Sample](https://github.com/18F/cfa2020/blob/master/18F%20Verbal%20interview%20sample%20language.pdf)
+- [Head Start RFQ Example](https://github.com/18F/Head_Start_Draft_RFQ)
+- [TANF RFQ Example](https://github.com/18F/tdrs-app-rfq)
