@@ -1,5 +1,5 @@
-# cfa2020
-A collection of resources and slides presented at the 2020 CfA Summit 
+# CfA Summit 2020
+A collection of resources and slides presented by 18f at the 2020 CfA Summit 
 
 ## Presentations
 ### Taking the BS out of Bids
